@@ -1,6 +1,6 @@
 # Writeups de Máquinas de PortSwigger
 
-Este repositorio contiene *writeups* detallados de máquinas de PortSwigger Web Security Academy, una plataforma de aprendizaje interactivo sobre seguridad web desarrollada por el equipo detrás de [Burp Suite](https://portswigger.net/burp). Cada *writeup* documenta el proceso paso a paso para resolver una máquina, abordando vulnerabilidades web comunes y explicando las técnicas y herramientas utilizadas en cada caso.
+Este repositorio contiene *writeups* detallados de máquinas de PortSwigger Web Security Academy, una plataforma de aprendizaje interactivo sobre seguridad web desarrollada por el equipo detrás de [Burp Suite](https://portswigger.net/burp). Cada *writeup* documenta el proceso paso a paso para resolver una máquina.
 
 ## 📖 ¿Qué es PortSwigger Web Security Academy?
 
